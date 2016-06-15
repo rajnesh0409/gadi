@@ -1,0 +1,1 @@
+<?php $message .= 'qqqq <b>eeee </b>rrrr<br>';  ?>
